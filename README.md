@@ -1,5 +1,5 @@
 # telua_open_hotel_connect- LuQuan.VN
-https://luquan.vn
+https://LuQuan.vn
 
 
 #

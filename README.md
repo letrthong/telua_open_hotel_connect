@@ -3,7 +3,10 @@ https://luquan.vn
 
 
 #
-hotels_dalat.json
-hotels_danang.json
-hotels_nhatrang.json
-hotels_hcm.json
+
+data/
+  dalat/hotels.json
+  danang/hotels.json
+  nhatrang/hotels.json
+  hcmc/hotels.json
+schema/hotel.schema.jso

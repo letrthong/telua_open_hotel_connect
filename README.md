@@ -9,4 +9,4 @@ data/
   danang/hotels.json
   nhatrang/hotels.json
   hcmc/hotels.json
-schema/hotel.schema.jso
+schema/hotel.schema.json

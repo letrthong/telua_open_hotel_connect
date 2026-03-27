@@ -3,10 +3,4 @@ https://LuQuan.vn
 
 
 #
-
-data/
-  dalat/hotels.json
-  danang/hotels.json
-  nhatrang/hotels.json
-  hcmc/hotels.json
-schema/hotel.schema.json
+Đây là nền tảng miễn phí, đóng vai trò kết nối thông tin và hỗ trợ định vị khách sạn cho người dùng. 
